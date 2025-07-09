@@ -1,0 +1,6 @@
+@echo off
+echo ============================
+echo Hello, World!
+echo This is my HelloWorld script.
+echo ============================
+pause
