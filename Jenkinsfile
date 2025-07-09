@@ -5,7 +5,7 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Running HelloWorld script...'
-                bat 'helloworld.bat'
+                bat 'type hello.txt'
             }
         }
 
